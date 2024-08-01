@@ -46,6 +46,7 @@ button.add:hover
     background-color: green;
     color: white;
     transition: 0.8s;
+    border: 1px solid rgba(0, 0, 0, 0.300);
 }
 
 main 
